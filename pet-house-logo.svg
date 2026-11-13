@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">PET HOUSE</title>
+  <desc id="desc">Minimal pink line art of a cat and dog above the PET HOUSE wordmark.</desc>
+  <g fill="none" stroke="#D85F8C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Cat: pointed ears and soft, rounded cheeks -->
+    <path d="M242 137 C238 111 237 86 244 65 L286 100 C302 94 319 93 336 97 L378 65 C385 87 386 112 381 137 C390 153 392 174 386 192 C378 217 359 236 337 247 C317 257 294 257 274 247 C251 236 233 217 226 193 C221 173 226 153 242 137 Z"/>
+    <!-- Dog: gentle floppy ears and rounded muzzle -->
+    <path d="M426 135 C421 110 423 89 435 76 C449 61 465 82 472 105 C478 113 485 116 494 115 C506 94 522 78 538 81 C560 83 573 104 574 129 C587 145 590 164 584 184 C577 208 560 227 538 239 C516 251 491 251 470 239 C448 227 432 208 425 185 C420 168 421 150 426 135 Z"/>
+    <!-- Quiet facial marks -->
+    <path d="M268 178 C273 172 281 172 286 178" stroke-width="5"/>
+    <path d="M327 178 C332 172 340 172 345 178" stroke-width="5"/>
+    <path d="M477 178 C482 172 490 172 495 178" stroke-width="5"/>
+    <path d="M527 178 C532 172 540 172 545 178" stroke-width="5"/>
+    <path d="M296 202 Q306 193 316 202 Q306 212 296 202 Z" fill="#D85F8C" stroke-width="3"/>
+    <path d="M306 211 C306 219 299 223 294 223 M306 211 C306 219 313 223 318 223" stroke-width="4"/>
+    <path d="M500 202 Q511 192 522 202 Q511 213 500 202 Z" fill="#D85F8C" stroke-width="3"/>
+    <path d="M511 212 C511 220 504 224 499 224 M511 212 C511 220 518 224 523 224" stroke-width="4"/>
+  </g>
+  <text x="400" y="365" text-anchor="middle" fill="#C94E7C"
+        font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="600" letter-spacing="8">PET HOUSE</text>
+  <text x="400" y="418" text-anchor="middle" fill="#D889A6"
+        font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" letter-spacing="1.5">*Pets are meant to be loved*</text>
+</svg>

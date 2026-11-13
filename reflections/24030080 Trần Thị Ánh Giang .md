@@ -1,0 +1,7 @@
+# Trần Thị Ánh Giang
+
+Ma So Sinh Vien: 24030080
+Tac gia: Eric Ries
+Ten Sach: Khởi Nghiệp Tinh Gọn
+
+dfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdvdfjoiadjvopadsjvdv
